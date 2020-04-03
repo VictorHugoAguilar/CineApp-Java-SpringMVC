@@ -1,0 +1,12 @@
+@charset "UTF-8";
+.borderTopY{
+	border-top: 5px solid #E7D53E;
+}
+
+.bg-dark{
+	background-color:#2B2B30;
+	height: 120px;
+	botton:0px;
+	color: white;
+	padding: 20px;
+}
